@@ -7,7 +7,7 @@ function Header() {
   return (
     <header className="header">
       <div className="container">
-        <h1>Personal Project Showcase</h1>
+        <h1>Personal Portfolio Platform</h1>
         <p>Discover my creative work and latest projects</p>
       </div>
     </header>
