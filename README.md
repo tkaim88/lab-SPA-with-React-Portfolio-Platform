@@ -1,6 +1,20 @@
-# 🎨 Portfolio Showcase Application
+# 🎨 Portfolio Platform Application
 
-A modern, responsive React application for showcasing creative projects. Users can view projects, add new ones, and search through the collection.
+## 📖 About
+
+This portfolio showcase application was built for a creative agency to display their past projects and allow them to dynamically update their portfolio as new work is completed. The platform provides a seamless user experience, making it easy for potential clients and collaborators to navigate projects and learn about their details.
+
+**Purpose:** To create a modern, responsive, and easily maintainable web presence for showcasing creative work.
+
+**Target Audience:** Creative agencies, freelancers, and professionals who need to display their project portfolio online.
+
+---
+
+## 🚀 Live Demo
+
+**Check out the live application:** [https://lab-spa-with-react-portfloio-platform.vercel.app](https://lab-spa-with-react-portfloio-platform.vercel.app)
+
+---
 
 ## ✨ Features
 
@@ -17,6 +31,7 @@ A modern, responsive React application for showcasing creative projects. Users c
 - **Vite** - Build tool and development server
 - **CSS3** - Custom styling with CSS modules
 - **Jest & React Testing Library** - Unit and integration testing
+- **Vercel** - Hosting and deployment
 
 ## 📁 Project Structure
 portfolio-platform/
@@ -52,8 +67,8 @@ text
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/portfolio-platform.git
-   cd portfolio-platform
+   git clone https://github.com/tkaim88/lab-SPA-with-React-Portfloio-Platform.git
+   cd lab-SPA-with-React-Portfloio-Platform
 Install dependencies
 
 bash
@@ -81,7 +96,7 @@ bash
 npm run build
 The built files will be in the dist folder.
 
-# Usage Guide
+📖 Usage Guide
 Adding a New Project
 Scroll to the "Add New Project" section
 
@@ -102,7 +117,7 @@ Search matches both titles and descriptions (case-insensitive)
 
 Click the "✕" button to clear the search
 
-# Testing
+🧪 Testing
 The application includes comprehensive tests:
 
 Unit Tests - Individual component functionality
@@ -111,7 +126,7 @@ Integration Tests - User interactions and workflows
 
 Form Validation - Testing error messages and submission
 
-# Test Coverage
+Test Coverage
 Component	Tests
 Header	Rendering, content
 AddProjectForm	Validation, submission, clearing
@@ -128,7 +143,7 @@ Form Validation - Immediate feedback helps users correct errors
 
 Animated Elements - Subtle animations enhance user experience
 
-# Known Limitations
+⚠️ Known Limitations
 Projects are stored in memory only (refresh resets to initial data)
 
 No image upload functionality for project thumbnails
@@ -137,7 +152,7 @@ No edit or delete features for existing projects
 
 No persistent storage (localStorage not implemented)
 
-# Future Enhancements
+🔮 Future Enhancements
 Add localStorage to persist projects between sessions
 
 Implement edit and delete functionality
@@ -152,7 +167,7 @@ Implement dark mode toggle
 
 Add project filtering by categories
 
-# Changelog
+📝 Changelog
 Version 1.0.0 (Current)
 Initial release
 
@@ -166,13 +181,24 @@ Form validation
 
 Unit and integration tests
 
-# Author
-Thomas Komora Buko - [tkaim88@github.com]
+Deployed on Vercel
 
-# License
-This project is licensed under the MIT License.
+👨‍💻 Author
+Thomas Komora Buko
 
-# Acknowledgments
+GitHub: @tkaim88
+
+Project Repository: lab-SPA-with-React-Portfloio-Platform
+
+📄 License
+This project is part of Moringa School curriculum.
+
+🙏 Acknowledgments
 Design inspiration from provided mock-up
+
 React Documentation
+
 Testing Library documentation
+
+Vercel for free hosting and deployment
+
