@@ -2,7 +2,7 @@
 
 ## 📖 About
 
-This portfolio showcase application was built for a creative agency to display their past projects and allow them to dynamically update their portfolio as new work is completed. The platform provides a seamless user experience, making it easy for potential clients and collaborators to navigate projects and learn about their details.
+This portfolio platform application was built for a creative agency to display their past projects and allow them to dynamically update their portfolio as new work is completed. The platform provides a seamless user experience, making it easy for potential clients and collaborators to navigate projects and learn about their details.
 
 **Purpose:** To create a modern, responsive, and easily maintainable web presence for showcasing creative work.
 
