@@ -1,4 +1,4 @@
-# 🎨 Thomas Komora Portfolio PLatform
+# 🎨 Thomas Komora Portfolio Platform
 
 ## 📖 About
 
