@@ -1,5 +1,5 @@
 /* src/App.css */
-/* Global styles for the Portfolio Showcase Application */
+/* Global styles for the Personal Portfolio Application */
 
 /* Reset default browser styles */
 * {
@@ -21,7 +21,7 @@ body {
 
 /* ========== HEADER STYLES ========== */
 .header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #667eea 0%, #663399 100%);
   color: white;
   padding: 60px 20px;
   text-align: center;
@@ -76,12 +76,12 @@ body {
   border-radius: 20px;
   padding: 30px;
   margin-bottom: 30px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.762);
 }
 
 .add-project-section h2 {
   font-size: 1.8rem;
-  color: #333;
+  color: #0688bf;
   margin-bottom: 25px;
   text-align: center;
 }
@@ -130,7 +130,7 @@ body {
 }
 
 .add-btn {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #667eea 0%, #663399 100%);
   color: white;
   padding: 14px 28px;
   border: none;
@@ -149,16 +149,15 @@ body {
 
 /* ========== SEARCH SECTION ========== */
 .search-section {
-  background: white;
+  background: linear-gradient(135deg, #667eea 0%, #663399 100%);
   border-radius: 20px;
   padding: 30px;
   margin-bottom: 30px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-}
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.762);}
 
 .search-section h2 {
   font-size: 1.8rem;
-  color: #333;
+  color: white;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -217,7 +216,7 @@ body {
   background: white;
   border-radius: 16px;
   padding: 24px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.762);
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
@@ -247,7 +246,7 @@ body {
 
 .project-card h3 {
   font-size: 1.4rem;
-  color: #667eea;
+  color: #0688bf;
   margin-bottom: 12px;
 }
 
