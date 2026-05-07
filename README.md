@@ -13,7 +13,6 @@ This portfolio platform application was built for a creative agency to display t
 ## 🚀 Live Demo
 
 **Check out the live application:** [https://lab-spa-with-react-portfloio-platfo.vercel.app/](https://lab-spa-with-react-portfloio-platfo.vercel.app/)
-
 ---
 
 ## ✨ Features
