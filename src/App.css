@@ -19,7 +19,7 @@ body {
   min-height: 100vh;
 }
 
-/* ========== HEADER STYLES ========== */
+/* HEADER STYLES */
 .header {
   background: linear-gradient(135deg, #667eea 0%, #663399 100%);
   color: white;
@@ -63,14 +63,14 @@ body {
   }
 }
 
-/* ========== MAIN CONTENT ========== */
+/* MAIN CONTENT */
 .main-content {
   max-width: 800px;
   margin: 0 auto;
   padding: 40px 20px;
 }
 
-/* ========== ADD PROJECT FORM ========== */
+/* ADD PROJECT FORM  */
 .add-project-section {
   background: white;
   border-radius: 20px;
@@ -147,7 +147,7 @@ body {
   box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
 }
 
-/* ========== SEARCH SECTION ========== */
+/* SEARCH SECTION */
 .search-section {
   background: linear-gradient(135deg, #667eea 0%, #663399 100%);
   border-radius: 20px;
@@ -204,14 +204,14 @@ body {
   text-align: center;
 }
 
-/* ========== PROJECT LIST ========== */
+/* PROJECT LIST */
 .project-list {
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
-/* ========== PROJECT CARD ========== */
+/* PROJECT CARD */
 .project-card {
   background: white;
   border-radius: 16px;
@@ -263,7 +263,7 @@ body {
   margin-top: 10px;
 }
 
-/* ========== NO RESULTS MESSAGE ========== */
+/* NO RESULTS MESSAGE */
 .no-results {
   text-align: center;
   padding: 60px 40px;
@@ -277,7 +277,7 @@ body {
   margin-bottom: 10px;
 }
 
-/* ========== RESPONSIVE DESIGN ========== */
+/* RESPONSIVE DESIGN */
 /* Tablet styles */
 @media (max-width: 768px) {
   .header {

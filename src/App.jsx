@@ -10,14 +10,14 @@ import initialProjects from './data/projects';
 import './App.css';
 
 function App() {
-  // ========== STATE MANAGEMENT ==========
-  // State for storing all projects
+  /* STATE MANAGEMENT */
+  // State for storing all projects 
   const [projects, setProjects] = useState(initialProjects);
   
   // State for search/filter term
   const [searchTerm, setSearchTerm] = useState('');
   
-  // ========== HELPER FUNCTIONS ==========
+  /* HELPER FUNCTIONS */
   // Add a new project to the list
   // New projects are added to the BEGINNING of the array (most recent first)
   const addProject = (newProject) => {
@@ -34,7 +34,7 @@ function App() {
     );
   });
   
-  // ========== COMPONENT RENDERING ==========
+  /* COMPONENT RENDERING */
   return (
     <div className="app">
       {/* Header - always visible */}
