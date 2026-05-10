@@ -9,6 +9,7 @@ import ProjectList from './components/ProjectList';
 import initialProjects from './data/projects';
 import './App.css';
 
+// Deployment fixed
 function App() {
   /* STATE MANAGEMENT */
   // State for storing all projects 
