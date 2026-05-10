@@ -1,8 +1,6 @@
 // src/components/Header.jsx
 // Header component - displays the main title and subtitle
 
-import React from 'react';
-
 function Header() {
   return (
     <header className="header">

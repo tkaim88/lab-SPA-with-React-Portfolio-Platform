@@ -1,7 +1,7 @@
 // src/App.jsx
 // Main App Component - manages all state and coordinates child components
 
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import Header from './components/Header';
 import AddProjectForm from './components/AddProjectForm';
 import SearchBar from './components/SearchBar';

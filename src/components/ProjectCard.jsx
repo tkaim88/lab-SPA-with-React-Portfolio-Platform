@@ -1,8 +1,6 @@
 // src/components/ProjectCard.jsx
 // Individual project card - displays one project
 
-import React from 'react';
-
 function ProjectCard({ project }) {
   return (
     <div className="project-card">

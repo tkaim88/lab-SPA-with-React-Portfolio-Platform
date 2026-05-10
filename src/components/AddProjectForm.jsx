@@ -1,7 +1,7 @@
 // src/components/AddProjectForm.jsx
 // Form component allows users to add new projects
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 function AddProjectForm({ onAddProject }) {
   // State to store form input values

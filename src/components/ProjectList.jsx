@@ -1,7 +1,6 @@
 // src/components/ProjectList.jsx
 // Displays all projects - receives filtered projects as prop
 
-import React from 'react';
 import ProjectCard from './ProjectCard';
 
 function ProjectList({ projects }) {

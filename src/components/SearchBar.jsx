@@ -1,8 +1,6 @@
 // src/components/SearchBar.jsx
 // Search bar component - filters projects based on user input
 
-import React from 'react';
-
 function SearchBar({ searchTerm, onSearchChange }) {
   return (
     <div className="search-section">
